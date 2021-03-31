@@ -30,7 +30,7 @@ If you used this dataset in your research please cite us.
 
 ```bibtex
 @misc{mobile3dscandataset,
-    author = {Ehsan Sayyad,Tobias Höllerer},
+    author = {Ehsan Sayyad},
     title = {{Mobile 3D scan dataset}},
     year = {2021},
     publisher = {GitHub},
