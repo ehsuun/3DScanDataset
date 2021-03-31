@@ -5,7 +5,7 @@ Collection of 3D scans with textured mesh, camera parameters, raw RGB and depth 
 
 [![Image](kohn.png)](https://sketchfab.com/3d-models/kohn-hall-ucsb-46c950c803bc4ba6855c74cce95bb5ec)
 
-*A corner of the Kohn Hall- UCSB* -  [**Download**](https://drive.google.com/file/d/11aVT_SL_NKOAfONzAcjNoODic7BMyWRV/view?usp=sharing)
+*Kohn Hall- UCSB* -  [**Download**](https://drive.google.com/file/d/11aVT_SL_NKOAfONzAcjNoODic7BMyWRV/view?usp=sharing)
 
 [![Image](hfh.PNG)](https://sketchfab.com/3d-models/harold-frank-hall-ucsb-02f960c7a26343ee816b643aedaeb0b4)
 
