@@ -1,6 +1,9 @@
 # 3DScanDataset
 Collection of 3D scans with textured mesh, camera parameters, raw RGB and depth
 
+
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100" height="100">
 <div class="sketchfab-embed-wrapper">
     <iframe title="Kohn Hall - UCSB" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/46c950c803bc4ba6855c74cce95bb5ec/embed">
     </iframe>
@@ -10,6 +13,10 @@ Collection of 3D scans with textured mesh, camera parameters, raw RGB and depth
         on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=46c950c803bc4ba6855c74cce95bb5ec" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
     </p>
 </div>
+</foreignObject>
+</svg>
+
+
 
 ## Citing
 If you used this dataset in your research please cite us.
