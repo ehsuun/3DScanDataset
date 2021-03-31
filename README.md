@@ -1,5 +1,7 @@
 # 3DScanDataset
-Collection of 3D scans with textured mesh, camera parameters, raw RGB and depth
+Collection of 3D scans with textured mesh, camera parameters, raw RGB and depth gathered using [**3D Scanner App**](https://www.3dscannerapp.com/)
+
+## Scenes
 
 [![Image](kohn.png)](https://sketchfab.com/3d-models/kohn-hall-ucsb-46c950c803bc4ba6855c74cce95bb5ec)
 
