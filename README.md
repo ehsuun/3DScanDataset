@@ -26,7 +26,7 @@ Collection of 3D scans with textured mesh, camera parameters, raw RGB and depth 
 
 
 ## Citing
-If you used this dataset in your research please cite us.
+If you used this dataset in your research please cite it using the following bibtex:
 
 ```bibtex
 @misc{mobile3dscandataset,
