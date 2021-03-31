@@ -6,7 +6,7 @@ Collection of 3D scans with textured mesh, camera parameters, raw RGB and depth
 ## Citing
 
 ```bibtex
-@misc{nevergrad,
+@misc{mobile3dscan,
     author = {Ehsan Sayyad},
     title = {{Mobile 3D scan dataset}},
     year = {2021},
