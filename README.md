@@ -5,15 +5,15 @@ Collection of 3D scans with textured mesh, camera parameters, raw RGB and depth
 
 *A corner of the Kohn Hall- UCSB*
 
-[![Image](hfh.png)](https://sketchfab.com/3d-models/harold-frank-hall-ucsb-02f960c7a26343ee816b643aedaeb0b4)
+[![Image](hfh.PNG)](https://sketchfab.com/3d-models/harold-frank-hall-ucsb-02f960c7a26343ee816b643aedaeb0b4)
 
 *HFH Entrance - UCSB*
 
-[![Image](marine.png)](https://sketchfab.com/3d-models/marine-sciences-staris-ucsb-f034d249c05c436d8e7e68970ea227b0)
+[![Image](marine.PNG)](https://sketchfab.com/3d-models/marine-sciences-staris-ucsb-f034d249c05c436d8e7e68970ea227b0)
 
 *Marine Sciences - UCSB*
 
-[![Image](courtyard.png)](https://sketchfab.com/3d-models/elings-hall-courtyard-ucsb-4bc868d2d09644bc822d011acb43e8da)
+[![Image](courtyard.PNG)](https://sketchfab.com/3d-models/elings-hall-courtyard-ucsb-4bc868d2d09644bc822d011acb43e8da)
 
 *Elings Hall - UCSB*
 
