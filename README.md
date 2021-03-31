@@ -1,4 +1,4 @@
-# 3DScanDataset
+# 3D Scan Dataset
 Collection of 3D scans with textured mesh, camera parameters, raw RGB and depth gathered using [**3D Scanner App**](https://www.3dscannerapp.com/)
 
 ## Scenes
