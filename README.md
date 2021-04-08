@@ -35,6 +35,35 @@ Collection of 3D scans with textured mesh, camera parameters, raw RGB and depth 
     Beach Stairs, Isla Vista <a href="https://drive.google.com/file/d/1drKjNok7fx-1W_ORwGGJN8DlUBUgebMd/view?usp=sharing">  Download </a>
     </td>
   </tr>
+     <tr>
+    <td>
+    <a href="https://sketchfab.com/3d-models/storefront-4162ba43514a47e6948b68a11ced64a0"><img src="thumb/storefront.png"  alt="1" width = 350px height = 200px ></a>
+    Storefront, Santa Barbara <a href="https://drive.google.com/file/d/1k36UJ97MSROvmeAtzSV077s3PeDsZ5HJ/view?usp=sharing">  Download </a>
+    </td>
+        <td>
+    <a href="https://sketchfab.com/3d-models/waterfall-1b5b5227d8714136b0b25810b7f65412"><img src="thumb/waterfall.png"  alt="1" width = 350px height = 200px ></a>
+    Waterfall, Santa Barbara <a href="https://drive.google.com/file/d/1ApsrOCP7_LGBEUxJ1JWUoLNB7WgYP6EA/view?usp=sharing">  Download </a>
+    </td>
+            <td>
+    <a href="https://sketchfab.com/3d-models/creek-2c88fb778e2c494fb749631fcff5e1f4"><img src="thumb/creek.png"  alt="1" width = 350px height = 200px ></a>
+    Creek, Santa Barbara <a href="https://drive.google.com/file/d/12FYdvUN72N8T8daoB0nHNO299ML-80Xh/view?usp=sharing">  Download </a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+    <a href="https://sketchfab.com/3d-models/rock-1-ac702e73f8124c87a792c586aaca49e1"><img src="thumb/rock1.png"  alt="1" width = 350px height = 200px ></a>
+    Rocks 1 <a href="https://drive.google.com/file/d/1P2KuQAm3qbaQREcXmUjDnFRXLsBaSZzD/view?usp=sharing">  Download </a>
+    </td>
+        <td>
+    <a href="https://sketchfab.com/3d-models/beach-rock-rubble-13835c3280f343739e7021290fcb938e"><img src="thumb/rock2.png"  alt="1" width = 350px height = 200px ></a>
+    Rocks 2 <a href="https://drive.google.com/file/d/1dmP0MrboluBtkQvrM8PXLx-CJWsQF5gj/view?usp=sharing">  Download </a>
+    </td>
+    <td>
+    <a href="https://sketchfab.com/3d-models/beach-rock-wall-d944d9c8bd604a7690a6a6b094f64298"><img src="thumb/rock3.png"  alt="1" width = 350px height = 200px ></a>
+    Rocks 3 <a href="https://drive.google.com/file/d/1BwiKJdI8wGMdUX4as0aYNUg0E7tVuG3J/view?usp=sharing">  Download </a>
+    </td>
+  </tr>
+
 </table>
 
 
