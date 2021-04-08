@@ -3,7 +3,7 @@ Collection of 3D scans with textured mesh, camera parameters, raw RGB and depth 
 
 ## Scenes
 
-[![Image](thumb\kohn.png)](https://sketchfab.com/3d-models/kohn-hall-ucsb-46c950c803bc4ba6855c74cce95bb5ec)
+[![Image](thumb/kohn.png)](https://sketchfab.com/3d-models/kohn-hall-ucsb-46c950c803bc4ba6855c74cce95bb5ec)
 
 *Kohn Hall- UCSB* -  [**Download**](https://drive.google.com/file/d/11aVT_SL_NKOAfONzAcjNoODic7BMyWRV/view?usp=sharing)
 
