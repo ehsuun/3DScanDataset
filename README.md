@@ -1,9 +1,13 @@
 # 3D Scan Dataset
 Collection of 3D scans with textured mesh, camera parameters, raw RGB and depth gathered using [**3D Scanner App**](https://www.3dscannerapp.com/)
 
+## Download
+
+You can download the entire dataset from <a href="https://drive.google.com/drive/folders/1rRj1ngwwgzlQz2OzhlsorodbgjHnZWvA?usp=sharing">here</a>.
+
+Individual scenes can be viewed and downloaded from the table below.
+
 ## Scenes
-
-
 
 
 <table>
