@@ -26,12 +26,32 @@ Collection of 3D scans with textured mesh, camera parameters, raw RGB and depth 
 
 <table>
   <tr>
-    <td> <img src="thumb/bio.PNG"  alt="1" width = 360px height = 640px ></td>
-    <td><img src="./thumb/courtyard.PNG" alt="2" width = 360px height = 640px></td>
+    <td>
+    <a href="https://skfb.ly/onn8C"><img src="thumb/bio.PNG"  alt="1" width = 350px height = 200px ></a>
+    Bio Backyard - UCSB <a href="https://drive.google.com/file/d/1ZgJ0yw0-Xv7r3H3n6yB6gff5HHaHRAIG/view?usp=sharing">  Download </a>
+    </td>
+    <td>
+    <a href="https://skfb.ly/onn8C"><img src="thumb/bio.PNG"  alt="1" width = 350px height = 200px ></a>
+    Bio Backyard - UCSB <a href="https://drive.google.com/file/d/1ZgJ0yw0-Xv7r3H3n6yB6gff5HHaHRAIG/view?usp=sharing">  Download </a>
+    </td>
+    <td>
+    <a href="https://skfb.ly/onn8C"><img src="thumb/bio.PNG"  alt="1" width = 350px height = 200px ></a>
+    Bio Backyard - UCSB <a href="https://drive.google.com/file/d/1ZgJ0yw0-Xv7r3H3n6yB6gff5HHaHRAIG/view?usp=sharing">  Download </a>
+    </td>
    </tr> 
    <tr>
-      <td><img src="./thumb/marine.PNG" alt="3" width = 360px height = 640px></td>
-      <td><img src="./thumb/hfh.PNG" align="right" alt="4" width = 360px height = 640px></td>
+    <td>
+    <a href="https://skfb.ly/onn8C"><img src="thumb/bio.PNG"  alt="1" width = 350px height = 200px ></a>
+    Bio Backyard - UCSB <a href="https://drive.google.com/file/d/1ZgJ0yw0-Xv7r3H3n6yB6gff5HHaHRAIG/view?usp=sharing">  Download </a>
+    </td>
+        <td>
+    <a href="https://skfb.ly/onn8C"><img src="thumb/bio.PNG"  alt="1" width = 350px height = 200px ></a>
+    Bio Backyard - UCSB <a href="https://drive.google.com/file/d/1ZgJ0yw0-Xv7r3H3n6yB6gff5HHaHRAIG/view?usp=sharing">  Download </a>
+    </td>
+        <td>
+    <a href="https://skfb.ly/onn8C"><img src="thumb/bio.PNG"  alt="1" width = 350px height = 200px ></a>
+    Bio Backyard - UCSB <a href="https://drive.google.com/file/d/1ZgJ0yw0-Xv7r3H3n6yB6gff5HHaHRAIG/view?usp=sharing">  Download </a>
+    </td>
   </tr>
 </table>
 
