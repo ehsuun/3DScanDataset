@@ -13,7 +13,7 @@ Individual scenes can be viewed and downloaded from the table below.
 <table>
   <tr>
     <td>
-    <a href="https://sketchfab.com/3d-models/kohn-hall-ucsb-46c950c803bc4ba6855c74cce95bb5ec"><img src="thumb/kohn.png"  alt="1" width = 350px height = 200px ></a>
+    <a href="https://sketchfab.com/3d-models/kohn-hall-ucsb-46c950c803bc4ba6855c74cce95bb5ec"><img src="./thumb/kohn.png"  alt="1" width = 350px height = 200px ></a>
     Kohn Hall, UCSB <a href="https://drive.google.com/file/d/11aVT_SL_NKOAfONzAcjNoODic7BMyWRV/view?usp=sharing">  Download </a>
     </td>
     <td>
